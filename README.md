@@ -17,8 +17,6 @@ Forces, gravity, friction, particles, collision detection
 
 physics engines, matter.js, bodies, constraints, composites
 
-physics engines, matter.js, bodies, constraints, composites
-
 generative art, randomness, noise
 
 generative art and design, polar coordinates, oscillation, additive synthesis, fractals, recursion
