@@ -8,3 +8,25 @@ Cool graphic programming projects
 4. Apply filters on images in order to transform them for processing in computer vision scenarios. 
 5. Explain the fundamental tenets of computer vision and write code that processes images to make intelligent assertions about their content. 
 6. Select and use software libraries for software development.
+
+2D transformations
+
+Vectors, vector arithmetic, acceleration in movement
+
+Forces, gravity, friction, particles, collision detection
+
+physics engines, matter.js, bodies, constraints, composites
+
+physics engines, matter.js, bodies, constraints, composites
+
+generative art, randomness, noise
+
+generative art and design, polar coordinates, oscillation, additive synthesis, fractals, recursion
+
+3D renderer, lights, material, texture, camera
+
+colors, color theory, images, webcam, pixels
+
+image processing, filters, convolution
+
+computer vision, color tracking, background subtraction, frame differencing, optical flow, face tracking
